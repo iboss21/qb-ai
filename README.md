@@ -1,3 +1,5 @@
+Working Process
+
 AI Behavior Implementation:
 
 Implementing realistic AI behavior for NPCs and animals involves creating a complex system of behaviors, states, and interactions. This can include:
